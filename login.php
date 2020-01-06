@@ -1,4 +1,5 @@
-<?php 
+<?php
+//test 
 $db = mysql_connect('localhost','root','');
 mysql_select_db($db.'db1');
 mysql_query($db, 'db1');
